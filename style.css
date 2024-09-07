@@ -1,0 +1,157 @@
+*{
+      padding: 0;
+      margin: 0;
+}
+body{
+
+    
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+        padding: 20px;
+}
+
+.Container{
+             padding: 50px;
+}
+
+.Section-1{
+              background-color: black;
+              color: white;
+              padding: 30px;
+              
+}
+.Section-1__contact{
+  
+              text-decoration: none;
+              background-color: blue;
+              color: whitesmoke;
+              padding-right: 10px;
+              padding-left: 10px;
+              padding-bottom: 10px;
+              padding-top: 10px;
+              display: inline-block;
+}
+.Section-1__name{
+                
+              font-size: 50px;
+}
+.Section-1__role{
+
+              font-size: 25px;
+              margin: 5px;
+}
+.Section-2,.Section-3,.Section-4,.Section-5{
+
+         margin-top: 20px;
+
+}
+.Section-2__descrip,.Section-3__descrip,.Section-4__descrip,.Section-5__descrip
+{
+
+      margin-top: 10px;
+}
+.Section-5{
+
+       background-color: black;
+       color: white;
+       padding: 15px;
+       border-radius: 15px;
+}
+
+.Section-3 li,.Section-4 li{
+
+      list-style: none;
+}
+.Section-3{
+
+      background-color: #0A7DBF;
+      padding: 20px;
+      height: 200px;
+      display: inline-block;
+      border-radius: 10px;
+
+}
+.Section-4{
+       
+      background-color: #FE7518;
+      padding: 20px;
+      height: 200px;
+      display:inline-block;
+      vertical-align: top ;
+      border-radius: 10px;
+}
+.Set-1{
+      background-color: black;
+      color: white;
+      padding: 30px;
+      display: inline-block ;
+      padding-right: 250px;
+       
+}
+.Set-1__Name{
+            font-size: 50px;
+       
+} 
+.Set-1__role{
+
+            font-size: 30px;
+            margin: 5px;
+}
+.Set-1__home{
+              font-size: 15px;
+              text-decoration: none;
+              background-color: blue;
+              color: whitesmoke;
+              padding-right: 10px;
+              padding-left: 10px;
+              padding-bottom:10px;
+              padding-top: 10px;
+              display: inline-block;
+}
+
+.Set-3{
+      background-color: black;
+      color: white;
+      padding: 15px;
+      display: inline-block ;
+      padding-right: 650px;
+      
+
+}
+
+.Set-2{
+          margin-top: 20px;
+          margin-bottom: 20px;
+}
+
+.Set-2__input,.Set-2__textarea,.Set-2__Submit{
+
+         margin-top: 20px;
+
+}
+.Set-2__input{
+
+             padding: 10px;
+             border: none;
+             border-bottom: solid black 1px;
+}
+.Set-2__textarea{
+      padding: 10px;
+      border: none;
+      border: solid black 1px;
+
+}
+.Set-2__submit{
+      margin-top: 10px;
+      text-decoration: none;
+      background-color: blue;
+      color: whitesmoke;
+      padding-right: 10px;
+      padding-left: 10px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      border: none;
+      display: inline-block;
+
+}
