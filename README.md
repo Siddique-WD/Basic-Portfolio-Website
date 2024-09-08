@@ -9,7 +9,9 @@ This is a simple portfolio website built with HTML and CSS. It has two pages: a 
 # Technologies Used
 HTML5
 CSS3
+
 How to view
+
 You can Access my Portfolio Website by visiting https://siddique-wd.github.io/Basic-portfolio-website/ Feel Free to Explore the content and get in touch !
 
 # Contributing
